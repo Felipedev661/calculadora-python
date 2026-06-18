@@ -1,0 +1,4 @@
+nano calculadora.py
+nano calculadora.sh
+chmod +x calculadora.sh
+./calculadora.sh
